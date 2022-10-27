@@ -1,0 +1,5 @@
+Learning Algorithm where all output labels Y are binary form  
+Setup: 
+Given X , output y'  is P(y=1|x)        is probablity that X is cat   
+Params : w , b 
+and read the pdf attached

@@ -1,0 +1,19 @@
+** Binary Classification **
+//forward and backward propogation
+
+Setup 
+ex : cat(1) vs non cat(0)
+64*64*3 (64pixels and rgb) 
+x is feature vector , nx =dimesion of feature vector
+nx= 1228
+m traning examples   
+(xi,yi) .... (xm,ym)
+X is a matrix formed by stacking training examples and dimesion nx * m   
+
+input and output labels
+X.shape = (n_x*m) dimension 
+for Y similiarly stack in columns 
+Y.shape = (1*m) dimension  
+
+Note to self : Look at notaion guide
+
